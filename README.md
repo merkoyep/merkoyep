@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merkoyep" alt="merkoyep" /></a> </p>
 
 👨🏻‍💻 I am a **Dev Degree Intern** at **🛒Shopify**</br>
-💪🏼 I'm currently working on Shopify's Retail CHeckout Team as a mobile engineering intern📱</br>
+💪🏼 I'm currently working on Shopify's Retail Checkout Team as a mobile engineering intern📱</br>
 📓 I’m a candidate at **the Dominican University of California** for a **Bachelors of Science** in **Applied Computer Science**</br>
 🚀 This term I'm focusing on learning **React Native**</br>
 💡 Fun fact I have a degree in **History**, and a decade of experience in **Parks and Recreation**!</br>
