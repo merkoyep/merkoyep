@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
-<h3 align="center">A budding software engineer embarking on my professional journey!</h3>
+<h3 align="center">A software engineer based in Toronto, Ontario</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merkoyep&label=Profile%20views&color=0e75b6&style=flat" alt="merkoyep" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merkoyep" alt="merkoyep" /></a> </p>
 
-👨🏻‍💻 I am a **Dev Degree Intern** at **🛒Shopify**</br>
-💪🏼 I'm currently working on Shopify's Retail Checkout Team as a mobile engineering intern📱</br>
-📓 I’m a candidate at **the Dominican University of California** for a **Bachelors of Science** in **Applied Computer Science**</br>
-🚀 This term I'm focusing on learning **React Native**</br>
-💡 Fun fact I have a degree in **History**, and a decade of experience in **Parks and Recreation**!</br>
+👨🏻‍💻 I am a **Software Engineer** at **🛒Shopify**</br>
+💪🏼 I'm currently working on Shopify's Retail Checkout Team as a mobile engineer📱</br>
+📓 I graduated from **the Dominican University of California** with a **Bachelors of Science** in **Applied Computer Science**</br>
+💡 Fun fact I also have a **Bachelors of Arts in History**, and a decade of experience in **Parks and Recreation**!</br>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
